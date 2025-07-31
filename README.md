@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Crime Analysis in India 🇮🇳
+# 🕵️‍♀️ Crime Analysis in India
 
 This project presents an in-depth **Exploratory Data Analysis (EDA)** of crime patterns across Indian cities. Using real-world crime data, the analysis uncovers significant insights about the nature, frequency, and distribution of crimes, with a particular focus on gender-based crimes and urban safety.
 
