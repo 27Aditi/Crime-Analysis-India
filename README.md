@@ -85,6 +85,7 @@ git clone https://github.com/yourusername/crime-analysis-india.git
 
 # Open in Jupyter
 jupyter notebook CrimeAnalysis.ipynb
+```
 
 ## 💼 About the Author
 
